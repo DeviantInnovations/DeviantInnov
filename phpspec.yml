@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: DeviantInnov
+        psr4_prefix: DeviantInnov
+        src_path: app
